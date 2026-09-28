@@ -1,0 +1,11 @@
+{
+  "unit": "physical tool (five seeds averaged within each)",
+  "comparison": "width128_minus_width64",
+  "tools": 13,
+  "mean_delta_NRMSE": -0.0058254615618632405,
+  "width128_lower_count": 8,
+  "wilcoxon_two_sided_raw_p": 0.454833984375,
+  "holm_p": "not applicable (one prespecified comparison)",
+  "exploratory": true,
+  "smoke": false
+}

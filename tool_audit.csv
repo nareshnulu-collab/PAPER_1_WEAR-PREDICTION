@@ -1,0 +1,15 @@
+Tool,Rows,DuplicateCycles,Eligible
+2,48,1,True
+3,44,0,True
+4,41,0,True
+5,51,0,True
+6,28,0,True
+7,124,0,True
+8,116,0,True
+9,149,0,True
+10,15,0,True
+11,1,0,False
+101,84,0,True
+102,82,0,True
+103,60,0,True
+105,125,0,True
